@@ -2,120 +2,120 @@
     "wallpapers": [
         {
             "id": 0,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/0.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/0.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/0.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/0.cmp",
             "category": "",
             "resolution": "1080x2160"
         },
         {
             "id": 1,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/1.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/1.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/1.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/1.cmp",
             "category": "",
             "resolution": "1080x2160"
         },
         {
             "id": 2,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/2.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/2.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/2.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/2.cmp",
             "category": "",
             "resolution": "1080x2160"
         },
         {
             "id": 3,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/3.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/3.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/3.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/3.cmp",
             "category": "",
             "resolution": "1080x2160"
         },
         {
             "id": 4,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/4.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/4.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/4.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/4.cmp",
             "category": "",
             "resolution": "1080x2160"
         },
         {
             "id": 5,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/5.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/5.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/5.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/5.cmp",
             "category": "",
             "resolution": "1080x2160"
         },
         {
             "id": 6,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/6.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/6.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/6.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/6.cmp",
             "category": "",
             "resolution": "1080x2160"
         },
         {
             "id": 7,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/7.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/7.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/7.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/7.cmp",
             "category": "",
             "resolution": "1080x2160"
         },
         {
             "id": 8,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/8.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/8.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/8.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/8.cmp",
             "category": "",
             "resolution": "1440x3040"
         },
         {
             "id": 9,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/9.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/9.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/9.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/9.cmp",
             "category": "",
             "resolution": "1080x2160"
         },
         {
             "id": 10,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/10.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/10.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/10.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/10.cmp",
             "category": "",
             "resolution": "1080x2160"
         },
         {
             "id": 11,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/11.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/11.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/11.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/11.cmp",
             "category": "",
             "resolution": "1080x2160"
         },
         {
             "id": 12,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/12.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/12.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/12.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/12.cmp",
             "category": "",
             "resolution": "4501x9001"
         },
         {
             "id": 13,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/13.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/13.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/13.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/13.cmp",
             "category": "",
             "resolution": "1440x2560"
         },
         {
             "id": 14,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/14.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/14.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/14.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/14.cmp",
             "category": "",
             "resolution": "1440x2560"
         },
         {
             "id": 15,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/15.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/15.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/15.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/15.cmp",
             "category": "",
             "resolution": "1080x2160"
         },
         {
             "id": 16,
-            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/16.png",
-            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/16.png",
+            "urlFull": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/full/16.cmp",
+            "urlPreview": "https://raw.githubusercontent.com/PixysOS/vendor_infra/master/small/16.cmp",
             "category": "",
             "resolution": "1440x3040"
         }

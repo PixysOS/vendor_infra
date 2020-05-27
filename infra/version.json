@@ -1,0 +1,15 @@
+[
+   {
+      "base":"ten",
+      "sub":[
+         "ten",
+         "ten_gapps"
+      ]
+   },
+   {
+      "base":"pie",
+      "sub":[
+         "pie"
+      ]
+   }
+]

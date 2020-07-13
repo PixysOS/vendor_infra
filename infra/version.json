@@ -1,15 +1,14 @@
-[
-   {
-      "base":"ten",
-      "sub":[
-         "ten",
-         "ten_gapps"
-      ]
-   },
-   {
-      "base":"pie",
-      "sub":[
-         "pie"
-      ]
-   }
-]
+{
+   "ten":[
+      {
+         "version_name":"10",
+         "global_deprecated":false
+      }
+   ],
+   "pie":[
+      {
+         "version_name":"9",
+         "global_deprecated":true
+      }
+   ]
+}
